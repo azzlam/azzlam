@@ -1,7 +1,7 @@
 - Hi, I’m @azzlam
 - I’m interested in games
 - I’m currently learning a few languages
-- How to reach me: discord: azzlam#8149
+- How to reach me: discord: azzlam
 
 <!---
 azzlam/azzlam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
